@@ -28,7 +28,7 @@ PyQt5 library
 
 🛠 Installation Clone the repository
 
-bash git clone https://github.com/MthuthuzeliNyawose/pos-system.git cd pos-system Install required dependencies
+bash git clone https://github.com/NYWMTH003/coding-repo.git cd pos-system Install required dependencies
 
 bash pip install PyQt5 Run the application
 
